@@ -6,13 +6,14 @@
 
 * [Introduction to MSPs](getting-started/introduction-to-msps/README.md)
   * [What are MSPs?](getting-started/introduction-to-msps/what-are-msps.md)
-  * [Who Needs MSPs?](getting-started/introduction-to-msps/who-needs-msps/README.md)
-    * [Target Market](getting-started/introduction-to-msps/who-needs-msps/target-market.md)
-    * [Typical Customer Profiles](getting-started/introduction-to-msps/who-needs-msps/typical-customer-profiles.md)
-    * [MSPs vs. In-House IT](getting-started/introduction-to-msps/who-needs-msps/msps-vs.-in-house-it.md)
+  * [Who Needs MSPs?](getting-started/introduction-to-msps/who-needs-msps.md)
+  * [Typical Customer Profiles](getting-started/introduction-to-msps/typical-customer-profiles.md)
+  * [MSPs vs. In-House IT](getting-started/introduction-to-msps/msps-vs.-in-house-it.md)
 
 ***
 
+* [Operational Maturity Levels (OMLs) in MSPs](operational-maturity-levels-omls-in-msps/README.md)
+  * [MSP Size vs. Operational Maturity Level](operational-maturity-levels-omls-in-msps/msp-size-vs.-operational-maturity-level.md)
 * [index](index.md)
 * [roles](roles.md)
 * [technical](technical/README.md)
