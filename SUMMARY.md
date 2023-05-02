@@ -10,7 +10,7 @@
 
 * [Introduction to MSPs](group-1-1/introduction-to-msps/README.md)
   * [What are MSPs?](group-1-1/introduction-to-msps/what-are-msps.md)
-  * [Page 2](group-1-1/introduction-to-msps/page-2.md)
+  * [Common Services Offered by MSPs](group-1-1/introduction-to-msps/common-services-offered-by-msps.md)
 
 ***
 
