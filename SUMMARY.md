@@ -13,7 +13,8 @@
 ***
 
 * [Operational Maturity Levels (OMLs) in MSPs](operational-maturity-levels-omls-in-msps/README.md)
-  * [MSP Size vs. Operational Maturity Level](operational-maturity-levels-omls-in-msps/msp-size-vs.-operational-maturity-level.md)
+  * [What are OMLs?](operational-maturity-levels-omls-in-msps/what-are-omls.md)
+  * [Size vs. Maturity Level](operational-maturity-levels-omls-in-msps/size-vs.-maturity-level.md)
 * [index](index.md)
 * [roles](roles.md)
 * [technical](technical/README.md)
