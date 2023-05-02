@@ -6,7 +6,6 @@
 
 * [Introduction to MSPs](getting-started/introduction-to-msps/README.md)
   * [What are MSPs?](getting-started/introduction-to-msps/what-are-msps.md)
-  * [Common Services Offered](getting-started/introduction-to-msps/common-services-offered.md)
   * [Who Needs MSPs?](getting-started/introduction-to-msps/who-needs-msps/README.md)
     * [Target Market](getting-started/introduction-to-msps/who-needs-msps/target-market.md)
     * [Typical Customer Profiles](getting-started/introduction-to-msps/who-needs-msps/typical-customer-profiles.md)
