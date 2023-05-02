@@ -15,6 +15,8 @@
 * [Operational Maturity Levels (OMLs) in MSPs](operational-maturity-levels-omls-in-msps/README.md)
   * [What are OMLs?](operational-maturity-levels-omls-in-msps/what-are-omls.md)
   * [Size vs. Maturity Level](operational-maturity-levels-omls-in-msps/size-vs.-maturity-level.md)
+  * [Boosting Growth: Best Practices & Tools](operational-maturity-levels-omls-in-msps/boosting-growth-best-practices-and-tools.md)
+  * [Beyond OMLs: Holistic Success Factors for MSPs](operational-maturity-levels-omls-in-msps/beyond-omls-holistic-success-factors-for-msps.md)
 * [Page 1](page-1.md)
 * [index](index.md)
 * [roles](roles.md)
