@@ -4,11 +4,11 @@
 
 ## Getting Started
 
-* [Introduction to MSPs](getting-started/introduction-to-msps/README.md)
-  * [What are MSPs?](getting-started/introduction-to-msps/what-are-msps.md)
-  * [Who Needs MSPs?](getting-started/introduction-to-msps/who-needs-msps.md)
-  * [Typical Customer Profiles](getting-started/introduction-to-msps/typical-customer-profiles.md)
-  * [MSPs vs. In-House IT](getting-started/introduction-to-msps/who-needs-msps/msps-vs.-in-house-it.md)
+* [Introduction to Managed Service Providers (MSPs)](getting-started/introduction-to-managed-service-providers-msps/README.md)
+  * [What are MSPs?](getting-started/introduction-to-managed-service-providers-msps/what-are-msps.md)
+  * [Who Needs MSPs?](getting-started/introduction-to-managed-service-providers-msps/who-needs-msps.md)
+  * [Typical Customer Profiles](getting-started/introduction-to-managed-service-providers-msps/typical-customer-profiles.md)
+  * [MSPs vs. In-House IT](getting-started/introduction-to-managed-service-providers-msps/msps-vs.-in-house-it.md)
 
 ***
 
@@ -20,7 +20,7 @@
 * [MSP Business Models & Revenue Generation](msp-business-models-and-revenue-generation/README.md)
   * [Common Business Models](msp-business-models-and-revenue-generation/common-business-models.md)
   * [Revenue Streams](msp-business-models-and-revenue-generation/revenue-streams.md)
-* [Page 1](page-1.md)
+* [MSP Tools and Their Functions](msp-tools-and-their-functions.md)
 * [index](index.md)
 * [roles](roles.md)
 * [technical](technical/README.md)
