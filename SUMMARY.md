@@ -34,5 +34,5 @@
   * [Podcasts & Webinars](resources/business-resources/podcasts-and-webinars.md)
   * [Blogs & Books](resources/business-resources/blogs-and-books.md)
 * [Technical Resources](resources/technical-resources/README.md)
-  * [Page 2](resources/technical-resources/page-2.md)
-  * [Page 1](resources/technical-resources/page-1.md)
+  * [Podcasts & Webinars](resources/technical-resources/podcasts-and-webinars.md)
+  * [Blogs & Books](resources/technical-resources/blogs-and-books.md)
