@@ -4,23 +4,26 @@
 
 ## MSP Foundations
 
-* [Introduction to Managed Service Providers (MSPs)](msp-foundations/introduction-to-managed-service-providers-msps/README.md)
-  * [What are MSPs?](msp-foundations/introduction-to-managed-service-providers-msps/what-are-msps.md)
-  * [Who Needs MSPs?](msp-foundations/introduction-to-managed-service-providers-msps/who-needs-msps.md)
-  * [Typical Customer Profiles](msp-foundations/introduction-to-managed-service-providers-msps/typical-customer-profiles.md)
-  * [MSPs vs. In-House IT](msp-foundations/introduction-to-managed-service-providers-msps/msps-vs.-in-house-it.md)
-* [Operational Maturity Levels (OMLs) in MSPs](msp-foundations/operational-maturity-levels-omls-in-msps/README.md)
-  * [What are OMLs?](msp-foundations/operational-maturity-levels-omls-in-msps/what-are-omls.md)
-  * [Size vs. Maturity Level](msp-foundations/operational-maturity-levels-omls-in-msps/size-vs.-maturity-level.md)
-  * [Boosting Growth: Best Practices & Tools](msp-foundations/operational-maturity-levels-omls-in-msps/boosting-growth-best-practices-and-tools.md)
-  * [Beyond OMLs: Holistic Success Factors for MSPs](msp-foundations/operational-maturity-levels-omls-in-msps/beyond-omls-holistic-success-factors-for-msps.md)
-* [MSP Business Models & Revenue Generation](msp-foundations/msp-business-models-and-revenue-generation/README.md)
-  * [Common Business Models](msp-foundations/msp-business-models-and-revenue-generation/common-business-models.md)
-  * [Revenue Streams](msp-foundations/msp-business-models-and-revenue-generation/revenue-streams.md)
+* [Introduction to Managed Service Providers (MSPs)](getting-started/introduction-to-managed-service-providers-msps/README.md)
+  * [What are MSPs?](getting-started/introduction-to-managed-service-providers-msps/what-are-msps.md)
+  * [Who Needs MSPs?](getting-started/introduction-to-managed-service-providers-msps/who-needs-msps.md)
+  * [Typical Customer Profiles](getting-started/introduction-to-managed-service-providers-msps/typical-customer-profiles.md)
+  * [MSPs vs. In-House IT](getting-started/introduction-to-managed-service-providers-msps/msps-vs.-in-house-it.md)
+* [Operational Maturity Levels (OMLs) in MSPs](operational-maturity-levels-omls-in-msps/README.md)
+  * [What are OMLs?](operational-maturity-levels-omls-in-msps/what-are-omls.md)
+  * [Size vs. Maturity Level](operational-maturity-levels-omls-in-msps/size-vs.-maturity-level.md)
+  * [Boosting Growth: Best Practices & Tools](operational-maturity-levels-omls-in-msps/boosting-growth-best-practices-and-tools.md)
+  * [Beyond OMLs: Holistic Success Factors for MSPs](operational-maturity-levels-omls-in-msps/beyond-omls-holistic-success-factors-for-msps.md)
+* [MSP Business Models & Revenue Generation](msp-business-models-and-revenue-generation/README.md)
+  * [Common Business Models](msp-business-models-and-revenue-generation/common-business-models.md)
+  * [Revenue Streams](msp-business-models-and-revenue-generation/revenue-streams.md)
 
 ## MSP Operations
 
-* [MSP Tools and Their Functions](msp-operations/msp-tools-and-their-functions.md)
+* [MSP Tools: Functions & Use](msp-operations/msp-tools-functions-and-use.md)
+* [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions/README.md)
+  * [Page 2](msp-operations/common-challenges-and-solutions/page-2.md)
+* [Page 3](msp-operations/page-3.md)
 
 ***
 
