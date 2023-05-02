@@ -1,9 +1,18 @@
 # Categories of tools
 
-**PSA (Professional Services Automation)**
+<details>
+
+<summary><strong>PSA (Professional Services Automation)</strong></summary>
+
+
 
 * **Examples:** ConnectWise, Datto Autotask, HaloPSA.
+
+<!---->
+
 * **Job-to-be-done:** Streamline and automate business processes, including ticketing, project management, time tracking, billing, and reporting. PSAs serve as the central hub for managing MSP operations and provide a single source of truth for client data.
+
+</details>
 
 **RMM (Remote Monitoring and Management)**
 
