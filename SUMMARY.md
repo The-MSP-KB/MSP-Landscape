@@ -2,10 +2,6 @@
 
 * [🏡 Home](README.md)
 
-## Group 1
-
-* [Page 1](group-1/page-1.md)
-
 ## Getting Started
 
 * [Introduction to MSPs](getting-started/introduction-to-msps/README.md)
@@ -20,3 +16,8 @@
   * [Temporary](technical/Tier1.md)
   * [architect](technical/architect.md)
   * [Temporary](technical/tier2.md)
+
+## 🧰 Resources
+
+* [Communities](resources/communities.md)
+* [Technical Resources](resources/technical-resources.md)
