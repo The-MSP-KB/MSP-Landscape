@@ -20,7 +20,8 @@
 
 ## MSP Operations
 
-* [MSP Tools: Functions & Use](msp-operations/msp-tools-functions-and-use.md)
+* [MSP Tools: Functions & Use](msp-operations/msp-tools-functions-and-use/README.md)
+  * [Categories of tools](msp-operations/msp-tools-functions-and-use/categories-of-tools.md)
 * [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions/README.md)
   * [Page 2](msp-operations/common-challenges-and-solutions/page-2.md)
 * [Page 3](msp-operations/page-3.md)
