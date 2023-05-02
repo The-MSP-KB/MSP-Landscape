@@ -8,7 +8,7 @@
   * [What are MSPs?](getting-started/introduction-to-msps/what-are-msps.md)
   * [Who Needs MSPs?](getting-started/introduction-to-msps/who-needs-msps.md)
   * [Typical Customer Profiles](getting-started/introduction-to-msps/typical-customer-profiles.md)
-  * [MSPs vs. In-House IT](getting-started/introduction-to-msps/msps-vs.-in-house-it.md)
+  * [MSPs vs. In-House IT](getting-started/introduction-to-msps/who-needs-msps/msps-vs.-in-house-it.md)
 
 ***
 
@@ -27,5 +27,12 @@
 
 ## 🧰 Resources
 
-* [Communities](resources/communities.md)
-* [Technical Resources](resources/technical-resources.md)
+* [Communities](resources/communities/README.md)
+  * [Forums & chat communities](resources/communities/forums-and-chat-communities.md)
+  * [Social Media communities](resources/communities/social-media-communities.md)
+* [Business Resources](resources/business-resources/README.md)
+  * [Podcasts & Webinars](resources/business-resources/podcasts-and-webinars.md)
+  * [Blogs & Books](resources/business-resources/blogs-and-books.md)
+* [Technical Resources](resources/technical-resources/README.md)
+  * [Page 2](resources/technical-resources/page-2.md)
+  * [Page 1](resources/technical-resources/page-1.md)
