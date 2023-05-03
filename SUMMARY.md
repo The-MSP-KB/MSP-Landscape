@@ -37,10 +37,10 @@
 
 ## MSP Relationships
 
-* [Managing Strategic Relationships](msp-relationships/managing-strategic-relationships.md)
-* [A Guide to Co-selling and MDF Strategies](msp-relationships/a-guide-to-co-selling-and-mdf-strategies/README.md)
-  * [Requesting MDFs from Vendors: Best Practices](msp-relationships/a-guide-to-co-selling-and-mdf-strategies/requesting-mdfs-from-vendors-best-practices.md)
-  * [Exploring Vendor-Specific Programs for MSPs](msp-relationships/a-guide-to-co-selling-and-mdf-strategies/exploring-vendor-specific-programs-for-msps.md)
+* [Managing Strategic Relationships](msp-relationships/managing-strategic-relationships/README.md)
+  * [A Guide to Co-selling and MDF Strategies](msp-relationships/managing-strategic-relationships/a-guide-to-co-selling-and-mdf-strategies.md)
+  * [Requesting MDFs from Vendors: Best Practices](msp-relationships/managing-strategic-relationships/requesting-mdfs-from-vendors-best-practices.md)
+  * [Exploring Vendor-Specific Programs for MSPs](msp-relationships/managing-strategic-relationships/exploring-vendor-specific-programs-for-msps.md)
 
 ***
 
