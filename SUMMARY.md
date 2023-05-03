@@ -21,8 +21,8 @@
 ## MSP Operations
 
 * [MSP Tools: Functions & Use](msp-tools-and-their-functions.md)
-  * [Categories of tools](msp-operations/msp-tools-functions-and-use/categories-of-tools.md)
   * [RMMs & PSAs](msp-operations/msp-tools-functions-and-use/rmms-and-psas.md)
+  * [Categories of tools](msp-operations/msp-tools-functions-and-use/categories-of-tools.md)
   * [Choosing the right tools](msp-operations/msp-tools-functions-and-use/choosing-the-right-tools.md)
 * [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions.md)
 * [Page 3](msp-operations/page-3.md)
