@@ -27,7 +27,7 @@
 * [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions/README.md)
   * [Industry Evolution & Requirements](msp-operations/common-challenges-and-solutions/industry-evolution-and-requirements.md)
   * [Challenges Faced by MSPs](msp-operations/common-challenges-and-solutions/challenges-faced-by-msps.md)
-  * [Strategies for Addressing MSP Challenges](msp-operations/common-challenges-and-solutions/strategies-for-addressing-msp-challenges.md)
+  * [Strategies for Addressing Challenges](msp-operations/common-challenges-and-solutions/strategies-for-addressing-challenges.md)
 * [Page 3](msp-operations/page-3.md)
 
 ***
