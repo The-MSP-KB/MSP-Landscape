@@ -2,7 +2,7 @@
 
 
 
-* [Who Needs MSPs?](index.md#who-needs-msps)
+*
   * [Target Market for MSPs](index.md#target-market-for-msps)
   * [Typical Customer Profiles for MSPs](index.md#typical-customer-profiles-for-msps)
   * [MSPs vs. In-House IT](index.md#msps-vs-in-house-it)
