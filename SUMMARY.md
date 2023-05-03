@@ -35,6 +35,10 @@
   * [Risk Management and Incident Response](msp-operations/msp-compliance-and-regulations/risk-management-and-incident-response.md)
   * [Working with Clients on Compliance](msp-operations/msp-compliance-and-regulations/working-with-clients-on-compliance.md)
 
+## MSP Relationships
+
+* [Managing Strategic Relationships](msp-relationships/managing-strategic-relationships.md)
+
 ***
 
 * [index](index.md)
