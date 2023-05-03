@@ -57,4 +57,4 @@
 * [Technical Resources](resources/technical-resources/README.md)
   * [Podcasts & Webinars](resources/technical-resources/podcasts-and-webinars.md)
   * [Blogs & Books](resources/technical-resources/blogs-and-books.md)
-* [To-do](resources/index.md)
+* [To-do](index.md)
