@@ -1,5 +1,7 @@
 # Working with Clients on Compliance
 
+As trusted IT partners, MSPs play a critical role in helping their clients achieve and maintain compliance with industry regulations and standards. This section will cover how MSPs can collaborate with their clients to ensure compliance, from setting expectations and providing guidance to offering compliance-focused services and solutions.
+
 ### Setting Compliance Expectations with Clients
 
 To help clients achieve and maintain compliance, MSPs should:
