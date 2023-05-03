@@ -24,7 +24,10 @@
   * [RMMs & PSAs](msp-operations/msp-tools-functions-and-use/rmms-and-psas.md)
   * [Categories of tools](msp-operations/msp-tools-functions-and-use/categories-of-tools.md)
   * [Choosing the right tools](msp-operations/msp-tools-functions-and-use/choosing-the-right-tools.md)
-* [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions.md)
+* [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions/README.md)
+  * [Industry Evolution & Requirements](msp-operations/common-challenges-and-solutions/industry-evolution-and-requirements.md)
+  * [Challenges Faced by MSPs](msp-operations/common-challenges-and-solutions/challenges-faced-by-msps.md)
+  * [Strategies for Addressing MSP Challenges](msp-operations/common-challenges-and-solutions/strategies-for-addressing-msp-challenges.md)
 * [Page 3](msp-operations/page-3.md)
 
 ***
