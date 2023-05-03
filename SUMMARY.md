@@ -22,8 +22,8 @@
 
 * [MSP Tools: Functions & Use](msp-tools-and-their-functions.md)
   * [Categories of tools](msp-operations/msp-tools-functions-and-use/categories-of-tools.md)
-* [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions/README.md)
-  * [Page 2](msp-operations/common-challenges-and-solutions/page-2.md)
+  * [How they work together to streamline operations](msp-operations/msp-tools-functions-and-use/how-they-work-together-to-streamline-operations.md)
+* [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions.md)
 * [Page 3](msp-operations/page-3.md)
 
 ***
