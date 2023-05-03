@@ -39,10 +39,6 @@
 
 * [index](index.md)
 * [Industry Roles & Responsibilities](roles.md)
-* [technical](technical/README.md)
-  * [Temporary](technical/Tier1.md)
-  * [architect](technical/architect.md)
-  * [Temporary](technical/tier2.md)
 
 ## 🧰 Resources
 
