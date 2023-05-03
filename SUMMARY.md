@@ -28,10 +28,10 @@
   * [Industry Evolution & Requirements](msp-operations/common-challenges-and-solutions/industry-evolution-and-requirements.md)
   * [Challenges Faced by MSPs](msp-operations/common-challenges-and-solutions/challenges-faced-by-msps.md)
   * [Strategies for Addressing Challenges](msp-operations/common-challenges-and-solutions/strategies-for-addressing-challenges.md)
-* [MSP Compliance & Regulations](msp-operations/msp-compliance-and-regulations/README.md)
+* [MSP Compliance & Regulations](msp-operations/page-3.md)
   * [Importance of Compliance for MSPs](msp-operations/msp-compliance-and-regulations/importance-of-compliance-for-msps.md)
   * [Common Regulations Affecting MSPs](msp-operations/msp-compliance-and-regulations/common-regulations-affecting-msps.md)
-  * [Implementing Compliance Management](msp-operations/msp-compliance-and-regulations/implementing-compliance-management.md)
+  * [Compliance Challenges & Strategies for MSPs](msp-operations/msp-compliance-and-regulations/compliance-challenges-and-strategies-for-msps.md)
   * [Risk Management and Incident Response](msp-operations/msp-compliance-and-regulations/risk-management-and-incident-response.md)
   * [Working with Clients on Compliance](msp-operations/msp-compliance-and-regulations/working-with-clients-on-compliance.md)
 
