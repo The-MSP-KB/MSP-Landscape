@@ -1,5 +1,0 @@
-# How they work together to streamline operations
-
-MSPs often integrate their tools to create a cohesive and efficient workflow. For example, PSA tools can integrate with RMM solutions and Network Monitoring and Management tools to automatically generate tickets when issues are detected. Documentation management tools can be connected to both PSA, RMM, and Network Monitoring platforms to provide relevant information within tickets or device management consoles. Security tools can send alerts to the RMM or PSA, triggering automated remediation or escalation procedures. Backup and disaster recovery solutions can also be integrated into the MSP's toolset, ensuring seamless data protection and recovery processes.
-
-While all these tools play a crucial role in MSP operations, their relative importance may vary based on the specific needs and priorities of each MSP. Typically, PSA and RMM tools serve as the core of an MSP's toolset, as they directly impact service delivery and operational efficiency, so lets dig into them a bit deeper.

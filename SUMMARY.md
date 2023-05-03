@@ -22,7 +22,7 @@
 
 * [MSP Tools: Functions & Use](msp-tools-and-their-functions.md)
   * [Categories of tools](msp-operations/msp-tools-functions-and-use/categories-of-tools.md)
-  * [How they work together to streamline operations](msp-operations/msp-tools-functions-and-use/how-they-work-together-to-streamline-operations.md)
+  * [RMMs & PSAs](msp-operations/msp-tools-functions-and-use/rmms-and-psas.md)
 * [Common Challenges & Solutions](msp-operations/common-challenges-and-solutions.md)
 * [Page 3](msp-operations/page-3.md)
 
