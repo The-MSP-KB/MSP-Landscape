@@ -42,7 +42,6 @@
   * [Requesting MDFs from Vendors: Best Practices](msp-relationships/managing-strategic-relationships/requesting-mdfs-from-vendors-best-practices.md)
   * [Exploring Vendor-Specific Programs for MSPs](msp-relationships/managing-strategic-relationships/exploring-vendor-specific-programs-for-msps.md)
   * [Best Practices for Vendor Channel programs](msp-relationships/managing-strategic-relationships/best-practices-for-vendor-channel-programs.md)
-  * [Untitled](msp-relationships/managing-strategic-relationships/untitled.md)
 
 ***
 
@@ -59,4 +58,3 @@
 * [Technical Resources](resources/technical-resources/README.md)
   * [Podcasts & Webinars](resources/technical-resources/podcasts-and-webinars.md)
   * [Blogs & Books](resources/technical-resources/blogs-and-books.md)
-* [To-do](index.md)
