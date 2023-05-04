@@ -34,6 +34,7 @@
   * [Compliance Challenges & Strategies for MSPs](msp-operations/msp-compliance-and-regulations/compliance-challenges-and-strategies-for-msps.md)
   * [Risk Management and Incident Response](msp-operations/msp-compliance-and-regulations/risk-management-and-incident-response.md)
   * [Working with Clients on Compliance](msp-operations/msp-compliance-and-regulations/working-with-clients-on-compliance.md)
+  * [Untitled](msp-operations/msp-compliance-and-regulations/untitled.md)
 
 ## MSP Relationships
 
