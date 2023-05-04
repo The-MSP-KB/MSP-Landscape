@@ -31,6 +31,7 @@
 * [MSP Departments and Business Units](msp-operations/msp-departments-and-business-units/README.md)
   * [MSP Service Desk Styles and Operational Maturity Levels](msp-operations/msp-departments-and-business-units/msp-service-desk-styles-and-operational-maturity-levels.md)
   * [Professional Services Department: Technical Expertise and Collaboration with the Service Desk](msp-operations/msp-departments-and-business-units/professional-services-department-technical-expertise-and-collaboration-with-the-service-desk.md)
+  * [Sales, Account Management, and Marketing: Driving MSP Growth and Client Satisfaction](msp-operations/msp-departments-and-business-units/sales-account-management-and-marketing-driving-msp-growth-and-client-satisfaction.md)
 * [MSP Compliance & Regulations](msp-operations/page-3.md)
   * [Importance of Compliance for MSPs](msp-operations/msp-compliance-and-regulations/importance-of-compliance-for-msps.md)
   * [Common Regulations Affecting MSPs](msp-operations/msp-compliance-and-regulations/common-regulations-affecting-msps.md)
