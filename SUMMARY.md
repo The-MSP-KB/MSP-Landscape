@@ -34,7 +34,6 @@
   * [Compliance Challenges & Strategies for MSPs](msp-operations/msp-compliance-and-regulations/compliance-challenges-and-strategies-for-msps.md)
   * [Risk Management and Incident Response](msp-operations/msp-compliance-and-regulations/risk-management-and-incident-response.md)
   * [Working with Clients on Compliance](msp-operations/msp-compliance-and-regulations/working-with-clients-on-compliance.md)
-  * [Untitled](msp-operations/msp-compliance-and-regulations/untitled.md)
 
 ## MSP Relationships
 
@@ -42,6 +41,8 @@
   * [A Guide to Co-selling and MDF Strategies](msp-relationships/managing-strategic-relationships/a-guide-to-co-selling-and-mdf-strategies.md)
   * [Requesting MDFs from Vendors: Best Practices](msp-relationships/managing-strategic-relationships/requesting-mdfs-from-vendors-best-practices.md)
   * [Exploring Vendor-Specific Programs for MSPs](msp-relationships/managing-strategic-relationships/exploring-vendor-specific-programs-for-msps.md)
+  * [Best Practices for Vendor Channel programs](msp-relationships/managing-strategic-relationships/best-practices-for-vendor-channel-programs.md)
+  * [Untitled](msp-relationships/managing-strategic-relationships/untitled.md)
 
 ***
 
