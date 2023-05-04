@@ -32,6 +32,7 @@
   * [MSP Service Desk Styles and Operational Maturity Levels](msp-operations/msp-departments-and-business-units/msp-service-desk-styles-and-operational-maturity-levels.md)
   * [Professional Services Department: Technical Expertise and Collaboration with the Service Desk](msp-operations/msp-departments-and-business-units/professional-services-department-technical-expertise-and-collaboration-with-the-service-desk.md)
   * [Sales, Account Management, and Marketing: Driving MSP Growth and Client Satisfaction](msp-operations/msp-departments-and-business-units/sales-account-management-and-marketing-driving-msp-growth-and-client-satisfaction.md)
+  * [Industry Roles & Responsibilities](msp-operations/msp-departments-and-business-units/roles.md)
 * [MSP Compliance & Regulations](msp-operations/page-3.md)
   * [Importance of Compliance for MSPs](msp-operations/msp-compliance-and-regulations/importance-of-compliance-for-msps.md)
   * [Common Regulations Affecting MSPs](msp-operations/msp-compliance-and-regulations/common-regulations-affecting-msps.md)
@@ -49,10 +50,6 @@
 * [Peer Groups and Accountability Groups](msp-relationships/peer-groups-and-accountability-groups/README.md)
   * [Peer Groups for MSPs Benefits and Potential Risks](msp-relationships/peer-groups-and-accountability-groups/peer-groups-for-msps-benefits-and-potential-risks.md)
   * [Accountability Groups: Fostering Growth and Success for MSPs](msp-relationships/peer-groups-and-accountability-groups/accountability-groups-fostering-growth-and-success-for-msps.md)
-
-***
-
-* [Industry Roles & Responsibilities](roles.md)
 
 ## 🧰 Resources
 
