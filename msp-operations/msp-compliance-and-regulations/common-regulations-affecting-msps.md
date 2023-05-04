@@ -26,4 +26,8 @@ MSPs should conduct regular risk assessments to identify and address potential v
 
 ### Misrepresentation of Certifications
 
-Both vendors and MSPs sometimes misrepresent their security posture by claiming their data center is certified, rather than their organization itself. This misconception can lead to a false sense of security and a lack of proper due diligence. It is crucial for MSPs to understand that data center certifications apply to the physical infrastructure and not the business layer. MSPs should be cautious not to overstate their compliance status and ensure they have implemented appropriate security measures at every level of their organization.
+Both vendors and MSPs sometimes misrepresent their security posture by claiming their data center(AWS, Azure, Google Cloud) is certified, rather than their organization itself. This misconception can lead to a false sense of security and a lack of proper due diligence.
+
+It is crucial for MSPs to understand that data center certifications apply only to the data center vendor themselves and are not transferable. A vendor or MSP is not SOC2 certified if they host data in AWS, as their business layer has not been evaluated .&#x20;
+
+MSPs should be cautious not to overstate their compliance status and ensure they have implemented appropriate security measures at every level of their organization.
