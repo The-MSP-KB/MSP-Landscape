@@ -37,8 +37,15 @@ To ensure the quality and consistency of the MSP Knowledge Base, please follow t
 * **Write clearly and concisely:** Aim for clarity and simplicity in your writing. Break down complex concepts into easily understandable language, and avoid jargon or overly technical terms whenever possible.
 * **Be respectful:** Treat other contributors with respect and kindness. Encourage collaboration and open-mindedness, and remember that this is a community effort.
 * **Follow markdown formatting:** Use markdown formatting for headers, bullet points, and other formatting elements to ensure readability and consistency throughout the Knowledge Base.
+*   **Keep it factual and neutral**
 
-### Submitting a pull request
+    All contributions should be based on accurate, verifiable information, and presented in an unbiased manner. Avoid using marketing terms, promotional language, or personal opinions to ensure that the content remains objective and reliable.
+
+### How to contribute
+
+You can contribute to each page by clicking the "Edit on Github" button. You can add text, suggest changes, or suggest to remove content by editing the content on Github. When you are done editing the document you click the "Create Pull Request" button. This will allow us to view the changes you've made and approve them, or suggest some modifications.
+
+Are you interested in changing more than just pages, but adding documentation and categories? Use the following instructions.
 
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine.
