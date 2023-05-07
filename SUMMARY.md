@@ -7,7 +7,6 @@
 * [Introduction to Managed Service Providers (MSPs)](getting-started/introduction-to-managed-service-providers-msps/README.md)
   * [What are MSPs?](getting-started/introduction-to-managed-service-providers-msps/what-are-msps.md)
   * [Who Needs MSPs?](getting-started/introduction-to-managed-service-providers-msps/who-needs-msps.md)
-  * [Typical Customer Profiles](getting-started/introduction-to-managed-service-providers-msps/typical-customer-profiles.md)
   * [MSPs vs. In-House IT](getting-started/introduction-to-managed-service-providers-msps/msps-vs.-in-house-it.md)
 * [Operational Maturity Levels (OMLs) in MSPs](operational-maturity-levels-omls-in-msps/README.md)
   * [What are OMLs?](operational-maturity-levels-omls-in-msps/what-are-omls.md)

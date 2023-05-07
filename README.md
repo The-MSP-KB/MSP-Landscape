@@ -2,46 +2,43 @@
 description: UNDERSTANDING THE MSP LANDSCAPE
 ---
 
-# Introduction
+# 🏡 Home
 
-Welcome to the Managed Service Providers (MSP) Knowledge Base, a comprehensive and collaborative resource focused on the MSP industry and the IT channel. As crucial players in managing and supporting their clients' IT infrastructure and systems, MSPs operate in a dynamic and ever-evolving market with growing demand for technological services and solutions. This resource aims to provide an in-depth understanding of MSPs, their vendors, and your role within the MSP channel ecosystem, equipping you to better serve your customers and navigate the market's direction. 
+## Introduction
 
-# Target Audience
+Welcome to the Managed Service Providers (MSP) Knowledge Base, a comprehensive and collaborative resource focused on the MSP industry and the IT channel. As crucial players in managing and supporting their clients' IT infrastructure and systems, MSPs operate in a dynamic and ever-evolving market with growing demand for technological services and solutions. This resource aims to provide an in-depth understanding of MSPs, their vendors, and your role within the MSP channel ecosystem, equipping you to better serve your customers and navigate the market's direction.
+
+## Target Audience
 
 The MSP KB is designed for a wide range of individuals who interact with or work within the MSP industry, including:
 
 1. **MSP Professionals:** If you're new to working with an MSP or are an existing employee looking to deepen your understanding of the industry, this resource will provide valuable insights and knowledge to help you excel in your role.
-
 2. **Vendors serving MSPs:** For those working at a company that provides products or services to MSPs, the knowledge base will help you better understand the MSP landscape and the unique needs of your clients, enabling you to better tailor your offerings and support.
-
 3. **IT Professionals considering MSP transition:** If you're an IT professional considering a transition to managed services, this resource will give you an overview of the industry, its business models, and the key aspects of working with and within MSPs.
-
 4. **MSP Channel Community Members:** Members of MSP-focused communities, forums, or organizations will find valuable information and resources that can help inform discussions and contribute to the collective knowledge of the community.
 
-# Contributions
+## Contributions
 
 Contributions are welcomed and encouraged. Use the top right button "edit on github" to request edits to pages.
 
-## How to contribute
+### How to contribute
 
 There are several ways you can contribute to the MSP Knowledge Base:
 
 1. **Suggest new topics or sections:** If you think a topic or section is missing or could be improved, please open a new issue in the repository and provide as much detail as possible about the proposed addition or change.
-
 2. **Improve existing content:** If you spot any inaccuracies, outdated information, or areas that could be expanded upon, feel free to make changes directly to the content and submit a pull request.
-
 3. **Share your expertise:** If you have experience or knowledge in a specific area related to MSPs, consider contributing content that can help others in the community. You can submit to new or existing sections share your insights and expertise.
 
-## Guidelines for contributing
+### Guidelines for contributing
 
 To ensure the quality and consistency of the MSP Knowledge Base, please follow these guidelines when contributing:
 
-- **Keep it relevant:** All contributions should be focused on the MSP industry and related topics. Make sure your contributions are relevant and provide value to the community.
-- **Write clearly and concisely:** Aim for clarity and simplicity in your writing. Break down complex concepts into easily understandable language, and avoid jargon or overly technical terms whenever possible.
-- **Be respectful:** Treat other contributors with respect and kindness. Encourage collaboration and open-mindedness, and remember that this is a community effort.
-- **Follow markdown formatting:** Use markdown formatting for headers, bullet points, and other formatting elements to ensure readability and consistency throughout the Knowledge Base.
+* **Keep it relevant:** All contributions should be focused on the MSP industry and related topics. Make sure your contributions are relevant and provide value to the community.
+* **Write clearly and concisely:** Aim for clarity and simplicity in your writing. Break down complex concepts into easily understandable language, and avoid jargon or overly technical terms whenever possible.
+* **Be respectful:** Treat other contributors with respect and kindness. Encourage collaboration and open-mindedness, and remember that this is a community effort.
+* **Follow markdown formatting:** Use markdown formatting for headers, bullet points, and other formatting elements to ensure readability and consistency throughout the Knowledge Base.
 
-## Submitting a pull request
+### Submitting a pull request
 
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine.
