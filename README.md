@@ -6,6 +6,18 @@ description: UNDERSTANDING THE MSP LANDSCAPE
 
 Welcome to the Managed Service Providers (MSP) Knowledge Base, a comprehensive and collaborative resource focused on the MSP industry and the IT channel. As crucial players in managing and supporting their clients' IT infrastructure and systems, MSPs operate in a dynamic and ever-evolving market with growing demand for technological services and solutions. This resource aims to provide an in-depth understanding of MSPs, their vendors, and your role within the MSP channel ecosystem, equipping you to better serve your customers and navigate the market's direction. 
 
+### Target Audience
+
+The MSP KB is designed for a wide range of individuals who interact with or work within the MSP industry, including:
+
+1. **MSP Professionals:** If you're new to working with an MSP or are an existing employee looking to deepen your understanding of the industry, this resource will provide valuable insights and knowledge to help you excel in your role.
+
+2. **Vendors serving MSPs:** For those working at a company that provides products or services to MSPs, the knowledge base will help you better understand the MSP landscape and the unique needs of your clients, enabling you to better tailor your offerings and support.
+
+3. **IT Professionals considering MSP transition:** If you're an IT professional considering a transition to managed services, this resource will give you an overview of the industry, its business models, and the key aspects of working with and within MSPs.
+
+4. **MSP Channel Community Members:** Members of MSP-focused communities, forums, or organizations will find valuable information and resources that can help inform discussions and contribute to the collective knowledge of the community.
+
 # Contributions
 
 Contributions are welcomed and encouraged. Use the top right button "edit on github" to request edits to pages.
