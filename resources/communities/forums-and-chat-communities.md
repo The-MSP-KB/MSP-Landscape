@@ -14,7 +14,7 @@ MSPGeek is an online community where MSPs can connect, share knowledge, and lear
 
 **Target audience:** Primarily technical, but also covers some business-related topics.
 
-**Link:** [https://mspgeek](https://mspgeek.com/).org&#x20;
+**Link:** [https://mspgeek.org](https://mspgeek.org/);
 
 #### Spiceworks
 
