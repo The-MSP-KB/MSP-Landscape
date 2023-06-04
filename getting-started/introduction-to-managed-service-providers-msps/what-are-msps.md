@@ -14,3 +14,7 @@ In addition to the common services mentioned above, MSPs may also offer strategi
 
 * **vCIO Services**: External IT consultants offering strategic guidance, technology roadmaps, budgeting, vendor management, and compliance/risk management.
 * **vCISO Services**: Overseeing information security programs, developing strategies, creating policies, incident response planning, security training, and conducting assessments/audits.
+
+For an overview of the history of the MSP market and more information about MSPs you can view Dave Sobels' video below
+
+{% embed url="https://www.youtube.com/watch?v=OkwR1Edaz7E" %}
