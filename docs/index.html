@@ -56,9 +56,6 @@
     ::-webkit-scrollbar {
         width: 8px;
     }
-    ::-webkit-scrollbar-track {
-        background-color: #333333;
-    }
     ::-webkit-scrollbar-thumb {
         background-color: #444444;
         border-radius: 4px;
@@ -245,9 +242,50 @@ body {
 #value-filter {
     color: #999999; /* Matching the default text color of the search input */
 }
+
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar-track {
+    background-color: #ffffff; /* White background for light mode */
+}
+
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar,
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar-track {
+    background-color: #ffffff; /* White background for the scrollbar and track in light mode */
+}
+
+.scrollable-container::-webkit-scrollbar-thumb {
+    background-color: #2BB5B6 !important; /* Teal color for thumb in dark mode */
+    border-radius: 6px !important;
+}
+
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar-thumb {
+    background-color: #C64A9A !important; /* Fandango color for thumb in light mode */
+    border-radius: 4px !important;
+}
+
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar-track {
+    background-color: #ffffff !important; /* White background for track in light mode */
+}
+
+.scrollable-container::-webkit-scrollbar {
+    width: 8px;
+}
+.scrollable-container::-webkit-scrollbar-thumb {
+    background-color: #2BB5B6; /* Teal color for thumb in dark mode */
+    border-radius: 6px;
+}
+.scrollable-container::-webkit-scrollbar-track {
+    background-color: #333333; /* Dark color for track in dark mode */
+}
+
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar-thumb {
+    background-color: #C64A9A; /* Fandango color for thumb in light mode */
+}
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar-track {
+    background-color: #ffffff; /* White background for track in light mode */
+}
 </style>
 </head>
-<body style="background-color: #22272e; color: #ffffff; transition: all 0.5s ease;">
+<body style="background-color: #181c1f; color: #ffffff; transition: all 0.5s ease;">
 <input id="light-mode" style="display: none;" type="checkbox"/>
 <label for="light-mode">Toggle Light Mode</label>
 <input id="search" placeholder="Search entire table" type="text"/>
