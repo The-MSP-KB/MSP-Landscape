@@ -8,7 +8,7 @@
 <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: rgb(24, 28, 31);
+            background-color: rgb(0, 0, 0);
             color: #ffffff;
             transition: all 0.5s ease;
         }
@@ -102,22 +102,31 @@
         color: #000000; /* Ensuring the text color changes to black in light mode */
     }
 
-/* Scroll wheel design */
-.scrollable-container::-webkit-scrollbar {
-  width: 12px;
-}
+    /* Scroll wheel design */
+    .scrollable-container::-webkit-scrollbar {
+        width: 12px;
+        background-color: #22272e; /* Default dark background for the scrollbar */
+    }
 
-.scrollable-container::-webkit-scrollbar-thumb {
-  background-color: #2BB5B6;
-  border-radius: 6px;
-}
+    .scrollable-container::-webkit-scrollbar-thumb {
+        background-color: #2BB5B6;
+        border-radius: 6px;
+    }
 
-.scrollable-container::-webkit-scrollbar-track {
-  background-color: #22272e;
-}
+    .scrollable-container::-webkit-scrollbar-track {
+        background-color: #22272e; /* Default dark background for the scrollbar track */
+    }
+
+    #light-mode:checked ~ .scrollable-container::-webkit-scrollbar {
+        background-color: #f2f2f2; /* White background for the scrollbar in light mode */
+    }
+
+    #light-mode:checked ~ .scrollable-container::-webkit-scrollbar-track {
+        background-color: #f2f2f2; /* White background for the scrollbar track in light mode */
+    }
 
 body {
-    background-color: #22272e;
+    background-color: rgb(24, 28, 31);
     color: #ffffff;
 }
 
@@ -220,7 +229,7 @@ table tr:nth-child(even) {
 }
 
 body {
-    background-color: #22272e; /* Default dark background */
+    background-color: rgb(24, 28, 31); /* Default dark background */
 }
 
 #light-mode:checked ~ body {
@@ -319,9 +328,11 @@ body {
         if (this.checked) {
             document.body.style.backgroundColor = '#ffffff'; // White background for light mode
             document.body.style.color = '#000000'; // Black text for light mode
+            document.querySelector('.scrollable-container').style.backgroundColor = '#f2f2f2'; // Scrollbar background for light mode
         } else {
-            document.body.style.backgroundColor = '#22272e'; // Default dark background
+            document.body.style.backgroundColor = 'rgb(24, 28, 31)'; // Default dark background
             document.body.style.color = '#ffffff'; // Default light text
+            document.querySelector('.scrollable-container').style.backgroundColor = 'rgb(24, 28, 31)'; // Scrollbar background for dark mode
         }
     });
 
