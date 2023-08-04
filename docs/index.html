@@ -101,6 +101,141 @@
         background-color: #f4f4f4;
         color: #000000; /* Ensuring the text color changes to black in light mode */
     }
+
+/* Scroll wheel design */
+.scrollable-container::-webkit-scrollbar {
+  width: 12px;
+}
+
+.scrollable-container::-webkit-scrollbar-thumb {
+  background-color: #2BB5B6;
+  border-radius: 6px;
+}
+
+.scrollable-container::-webkit-scrollbar-track {
+  background-color: #22272e;
+}
+
+body {
+    background-color: #22272e;
+    color: #ffffff;
+}
+
+#light-mode:checked ~ body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+table th {
+    background-color: #009490;
+    color: #ffffff;
+}
+
+#light-mode:checked ~ table th {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+table tr:nth-child(even) {
+    background-color: #2d2d2d;
+}
+
+#light-mode:checked ~ table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#search, #integration-filter, #value-filter {
+    background-color: #22272e;
+    color: #ffffff;
+    border: 1px solid #2BB5B6;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    width: auto;
+}
+
+#light-mode:checked ~ #search,
+#light-mode:checked ~ #integration-filter,
+#light-mode:checked ~ #value-filter {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #009490;
+}
+
+#light-mode:checked ~ #controls-container,
+#light-mode:checked ~ .scrollable-container {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#light-mode:checked ~ .scrollable-container table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#light-mode:checked ~ .scrollable-container table th {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#light-mode:checked ~ .scrollable-container::-webkit-scrollbar-track {
+    background-color: #ffffff;
+}
+
+#light-mode:checked ~ body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#light-mode:checked ~ .scrollable-container table tr:nth-child(even) {
+    color: #000000;
+}
+
+#light-mode:checked ~ #controls-container {
+    background-color: #ffffff;
+}
+
+#light-mode:checked ~ #controls-container #search,
+#light-mode:checked ~ #controls-container #integration-filter,
+#light-mode:checked ~ #controls-container #value-filter {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #C64A9A; /* Rewst Fandango */
+}
+
+#light-mode:checked ~ #controls-container {
+    background-color: #ffffff;
+}
+
+#light-mode:checked ~ #controls-container label,
+#light-mode:checked ~ #controls-container input,
+#light-mode:checked ~ #controls-container select {
+    background-color: #ffffff;
+    color: #000000;
+    border-color: #C64A9A; /* Rewst Fandango */
+}
+
+#light-mode:checked ~ .scrollable-container table th {
+    background-color: #009490; /* Rewst Primary Teal */
+    color: #ffffff;
+}
+
+body {
+    background-color: #22272e; /* Default dark background */
+}
+
+#light-mode:checked ~ body {
+    background-color: #ffffff; /* White background for light mode */
+}
+
+#integration-filter option[value=""],
+#value-filter option[value=""] {
+    color: #999999; /* Matching the default text color of the search input */
+}
+
+#integration-filter,
+#value-filter {
+    color: #999999; /* Matching the default text color of the search input */
+}
 </style>
 </head>
 <body style="background-color: #22272e; color: #ffffff; transition: all 0.5s ease;">
@@ -157,6 +292,50 @@
         searchInput.addEventListener('keyup', filterTable);
         integrationFilter.addEventListener('change', filterTable);
         valueFilter.addEventListener('change', filterTable);
-    </script>
+    
+document.getElementById('light-mode').addEventListener('change', function() {
+    if (this.checked) {
+        document.body.style.backgroundColor = '#ffffff'; // White background for light mode
+        document.body.style.color = '#000000'; // Black text for light mode
+    } else {
+        document.body.style.backgroundColor = '#22272e'; // Default dark background
+        document.body.style.color = '#ffffff'; // Default light text
+    }
+});
+
+function updateDropdownTextColor(selectElement) {
+    const lightModeCheckbox = document.getElementById('light-mode');
+    if (selectElement.value === "") {
+        selectElement.style.color = "#999999"; // Matching the default text color of the search input
+    } else {
+        selectElement.style.color = lightModeCheckbox.checked ? "#000000" : "#ffffff"; // Matching the current mode's text color
+    }
+}
+
+// Triggering the updateDropdownTextColor function for the current selected options when the page loads
+updateDropdownTextColor(document.getElementById('integration-filter'));
+updateDropdownTextColor(document.getElementById('value-filter'));
+
+document.getElementById('light-mode').addEventListener('change', function() {
+    const integrationFilter = document.getElementById('integration-filter');
+    const valueFilter = document.getElementById('value-filter');
+
+    function updateOptionsColor(selectElement, color) {
+        Array.from(selectElement.options).forEach(option => {
+            if (option.value !== "") {
+                option.style.color = color;
+            }
+        });
+    }
+
+    if (this.checked) {
+        updateOptionsColor(integrationFilter, '#000000'); // Black text for light mode
+        updateOptionsColor(valueFilter, '#000000'); // Black text for light mode
+    } else {
+        updateOptionsColor(integrationFilter, '#ffffff'); // White text for dark mode
+        updateOptionsColor(valueFilter, '#ffffff'); // White text for dark mode
+    }
+});
+</script>
 </body>
 </html>
